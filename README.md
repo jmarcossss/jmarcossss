@@ -1,4 +1,4 @@
-<h3>Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24" /> </h3>
+<h3>Hello there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24"
 
 
 
@@ -16,14 +16,8 @@ I've been working with **HTML**, **CSS** and **JavaScript**
 
 
 <div align="left">
-  <a href="https://www.youtube.com/c/lesimoes?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="youtube logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lesimoess/" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-marcos-alcantara-vanderley-390031249/?originalSubdomain=br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/5484299/lesimoes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="stackoverflow logo"  />
   </a>
 </div>
 
