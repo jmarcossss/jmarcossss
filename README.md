@@ -1,46 +1,27 @@
-<h3>Hello there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24"
+## Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
+My name is João Marcos. I'm Computer Engenieer from UFPE and Software Developer from Driven Education.
+
+[![Linkedin Badge](https://img.shields.io/badge/-João_Marcos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmavanderley/)](https://www.linkedin.com/in/jmavanderley/)
+[![Gmail Badge](https://img.shields.io/badge/-jmav@cin.ufpe.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmav@cin.ufpe.br)](mailto:jmav@cin.ufpe.br)
 
 
+## ⚡ Technologies
 
-<div align="center">
-  <h1>jmrcossss</h1>
-  <h3>😎 Computer Engineer & Developer, Brazil 🌎</h3><br>
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lesimoes&count_private=true&show_icons=true" alt="My github stats">
-
-My name is João Marcos. I'm Computer Engenieer from UFPE and Deveoper from Driven Education.
-
-I've been working with **HTML**, **CSS** and **JavaScript**
-
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/joao-marcos-alcantara-vanderley-390031249/?originalSubdomain=br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-
-<div align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=lesimoes&repo=sqs-huge-message&show_icons=true" alt="My github stats">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=lesimoes&repo=COVID-MG&show_icons=true" alt="My github stats">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=lesimoes&repo=ShaolimBot&show_icons=true" alt="My github stats">
-</div>
-
-<!--
-**jmarcossss/jmarcossss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jmarcossss&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcossss&hide=TeX&layout=compact)
