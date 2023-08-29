@@ -1,6 +1,6 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-My name is João Marcos. I'm Computer Engenieer from UFPE and Software Developer from Driven Education.
+My name is João Marcos. I'm Computer Engenieer from UFPE and Software Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-João_Marcos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmavanderley/)](https://www.linkedin.com/in/jmavanderley/)
 [![Gmail Badge](https://img.shields.io/badge/-jmav@cin.ufpe.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmav@cin.ufpe.br)](mailto:jmav@cin.ufpe.br)
